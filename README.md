@@ -1,0 +1,2 @@
+# estatica
+libreria
